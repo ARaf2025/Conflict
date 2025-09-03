@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Pravda
 commit test
+=======
+Oshibka
+>>>>>>> b7cdfcc51bf66da7b5dae79c5528dd193d13bcf6
 pravda1
 Pravda2
 pravda3
